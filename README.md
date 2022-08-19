@@ -109,7 +109,7 @@ Here is what you need to be able to run Cal.
    cd cal.com
    ```
 
-1. Install packages with yarn
+1. Install packages with yarn!
 
    ```sh
    yarn
